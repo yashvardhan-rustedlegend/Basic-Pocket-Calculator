@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/01/06 11:52:09.000.431,=C:\Users\NINI\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/01/06 11:52:09.000.541,=C:\Users\NINI\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/01/06 11:52:30.000.074,C:\Users\NINI\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\NINI\Documents\Embarcadero\Studio\Projects\CalculatorPCH1.h</Transaction>
+    <Transaction>2021/01/06 11:52:30.000.074,C:\Users\NINI\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\NINI\Documents\Embarcadero\Studio\Projects\Calculator.cbproj</Transaction>
+    <Transaction>2021/01/06 12:15:54.000.043,C:\Users\NINI\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\NINI\Documents\Embarcadero\Studio\Projects\03-Calculator\Unit1.dfm</Transaction>
+    <Transaction>2021/01/06 12:15:54.000.043,C:\Users\NINI\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\NINI\Documents\Embarcadero\Studio\Projects\03-Calculator\Unit1.cpp</Transaction>
+    <Transaction>2021/01/06 12:15:54.000.043,C:\Users\NINI\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\NINI\Documents\Embarcadero\Studio\Projects\03-Calculator\Unit1.h</Transaction>
+    <Transaction>2021/01/06 12:52:38.000.333,C:\Users\NINI\Documents\Embarcadero\Studio\Projects\CalculatorPCH1.h=C:\Users\NINI\Documents\Embarcadero\Studio\Projects\03-Calculator\CalculatorPCH1.h</Transaction>
+    <Transaction>2021/01/06 12:52:39.000.804,C:\Users\NINI\Documents\Embarcadero\Studio\Projects\Calculator.cbproj=C:\Users\NINI\Documents\Embarcadero\Studio\Projects\03-Calculator\Calculator.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
